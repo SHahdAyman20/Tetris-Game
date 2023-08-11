@@ -1,16 +1,8 @@
-# tetris_game
+Tetris Game
 
-A new Flutter project.
+A classic implementation of the popular Tetris game built using Flutter and Dart.
+This version stays true to the original gameplay mechanics while offering a visually appealing user interface.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Objective:
+Clear lines by fitting falling blocks together to create complete horizontal lines.
+With each cleared line, the game speeds up, challenging players to think and react quickly.
